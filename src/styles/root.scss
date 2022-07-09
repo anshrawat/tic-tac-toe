@@ -2,7 +2,7 @@ body {
     padding: 0;
     margin: 0;
   }
-  
+
   button {
     background: none;
     border: none;
@@ -18,7 +18,9 @@ body {
     flex-direction: column;
     align-items: center;
   }
-  
+  .tac{
+    color: rgb(101, 210, 101)
+  }
   .board {
     .board-row {
       display: flex;
